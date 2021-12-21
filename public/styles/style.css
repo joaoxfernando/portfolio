@@ -1,0 +1,9 @@
+@import '../../node_modules/bulma/css/bulma.css';
+
+body {
+    background-color: #F1F1F1;
+}
+
+/* .card-profile, .card-experience {
+    box-shadow: 3px 5px 15px black;
+} */
